@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
+[![Rank](https://make.fun/badge/news-image-20261120/Seugii/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120)
+[![Reward](https://make.fun/badge/news-image-20261120/Seugii/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120)
+
 # The World in One Page — 20 November 2026
 
 Entry for the make.fun bounty **"Sum up 20 November's world news in one image"**
